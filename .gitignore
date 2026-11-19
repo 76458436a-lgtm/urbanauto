@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+*.log
+.vscode/
+.idea/
+blind_check/Прогон/
