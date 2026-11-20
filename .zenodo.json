@@ -1,0 +1,14 @@
+{
+  "title": "Urban Auto: QGIS plugin for annual built-up area maps from Landsat",
+  "upload_type": "software",
+  "description": "<p>QGIS Processing plugin that builds a built-up area map for every year of a period (e.g. 2000–2025) from a city name or polygon. Training labels are derived automatically from open products (GHSL, WSF, ESA WorldCover, JRC GSW, OpenStreetMap, Microsoft buildings); summer Landsat composites are classified with gradient boosting, the year of built-up appearance is detected, and accuracy with 95 % CI is estimated from labelled check points (Olofsson).</p><p>Модуль QGIS для построения годовых карт застройки и анализа роста городов по снимкам Landsat без ручных обучающих точек.</p>",
+  "creators": [
+    {
+      "name": "Kalenov, Ruslan",
+      "affiliation": "Russian State Agrarian University – Moscow Timiryazev Agricultural Academy"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "keywords": ["QGIS", "urban growth", "built-up area", "Landsat", "remote sensing", "change detection", "machine learning"],
+  "language": "eng"
+}
